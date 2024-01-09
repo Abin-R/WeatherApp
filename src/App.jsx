@@ -1,11 +1,6 @@
-import Weather from "./pages/weather.jsx";
-
-
-
+import Weather from "./pages/weather"
 
 function App() {
-
-
   return (
     <>
      <Weather/>
