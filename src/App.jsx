@@ -1,4 +1,5 @@
-import Weather from "./pages/weather"
+import Weather from "./pages/weather.jsx";
+
 
 
 
